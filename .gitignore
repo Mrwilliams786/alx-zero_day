@@ -1,0 +1,11 @@
+*~
+*.swp
+# Emacs backup files
+*~
+.#*
+\#*\#
+*~
+\#*\#
+.emacs.desktop
+.emacs.desktop.lock
+.elc
